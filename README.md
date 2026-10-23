@@ -20,7 +20,7 @@ illustration, charts, questions, vocabulary, and PDF library are included in HTM
 - TED-Ed questions 2 and 3 retained; no separate industrialization-definition question.
 - GDP investigation retained; one combined survival synthesis question.
 - Lighting investigation removed.
-- Eight supporting panels visible at once; choose one of seven plotted metrics to discuss.
+- Eight supporting panels visible at once; choose one of eight plotted metrics to discuss.
 - Absolute and relative well-being retained, followed by the poverty reveal.
 - Income-distribution pies and the three-house comparison removed.
 - Six abbreviated visible evidence cards; two synthesis questions.
@@ -85,10 +85,18 @@ reference to the first modern observation; documented modern benchmarks form a
 solid tail. The 1870–1920 interval is shaded. A focus button uses that time window;
 it leaves years without observations blank. The 1918 life-expectancy dip is included.
 
-All eight supporting panels share the 1870–1920 horizontal axis. Seven have plotted
-observations within that window. The official poverty series begins in 1959, so
-that panel explicitly shows missing evidence rather than a fabricated early trend.
+All eight supporting panels share the 1870–1920 horizontal axis. All eight have plotted
+benchmarks within that window. Poverty uses approximate historical projections,
+not the official Census survey series (which begins in 1959).
 
+- Poverty: Eugene Smolensky and Robert Plotnick, IRP Discussion Paper 998-93
+  (1993), abstract, Figure 3 and pp. 20–23: about 80% in 1900 and 60% in 1920.
+  These project a later official poverty standard backward using historical
+  income data; they are not counts from national income surveys. The authors
+  caution that later standards may exaggerate poverty as understood in that era.
+  The dashed connector does not represent annual fluctuations or a smooth trend.
+  No estimate is supplied for 1870–1899. Source:
+  https://www.irp.wisc.edu/publications/dps/pdfs/dp99893.pdf
 - Literacy: NCES, ages 14+; 1870–1920 decennial observations.
 - Schooling: NCES table 2; ages 5–19 through 1890 and 5–20 from 1900.
   The line is broken at the age-range change.
