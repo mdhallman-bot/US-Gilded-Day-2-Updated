@@ -20,7 +20,7 @@ illustration, charts, questions, vocabulary, and PDF library are included in HTM
 - TED-Ed questions 2 and 3 retained; no separate industrialization-definition question.
 - GDP investigation retained; one combined survival synthesis question.
 - Lighting investigation removed.
-- Eight supporting graph panels visible at once; choose one metric to discuss.
+- Eight supporting panels visible at once; choose one of seven plotted metrics to discuss.
 - Absolute and relative well-being retained, followed by the poverty reveal.
 - Income-distribution pies and the three-house comparison removed.
 - Six abbreviated visible evidence cards; two synthesis questions.
@@ -76,18 +76,34 @@ earlier-lesson backend response before accepting cloud state.
 
 ## Graph interpretation
 
-All eight supporting topics are shown, but some original text cards did not
-contain a time series. Sourced numeric comparisons were substituted:
+The early GDP comparison is restored: England → Britain/UK and the United States,
+with 1270–2000, 1750–2000, and U.S. 1870–1920 views. The main response uses
+1870 and 1920. Question numbers follow reading order; saved answer IDs stay fixed.
 
-- Information: growth in U.S. telephone numbers, not a claim about message speed.
-- Household infrastructure: U.S. farm electrification, not all households.
-- Work time: share with a workweek of 48 hours or less; 1919 is approximate.
-- Travel: approximate before/after wagon versus rail journey benchmarks, not an
-  annual series or a claim that all journeys took that long.
+Survival starts in the illustrative long view. Dashed segments connect the ancient
+reference to the first modern observation; documented modern benchmarks form a
+solid tail. The 1870–1920 interval is shaded. A focus button uses that time window;
+it leaves years without observations blank. The 1918 life-expectancy dip is included.
 
-Dashed lines join two benchmarks, not measured intervening years. Approximate
-points are labeled. Different graphs have different units, scales, and dates.
-Each graph includes its own source and limitation.
+All eight supporting panels share the 1870–1920 horizontal axis. Seven have plotted
+observations within that window. The official poverty series begins in 1959, so
+that panel explicitly shows missing evidence rather than a fabricated early trend.
+
+- Literacy: NCES, ages 14+; 1870–1920 decennial observations.
+- Schooling: NCES table 2; ages 5–19 through 1890 and 5–20 from 1900.
+  The line is broken at the age-range change.
+- Energy: EIA Table E1 total divided by Census decennial resident population.
+- Travel: NBER/FRED total railroad track mileage, including sidings and extra
+  tracks; not route mileage or travel speed.
+- Information: U.S. telephone counts, 1900 and 1910, not connection speed.
+- Work time: share with a workweek of 48 hours or less, 1915 and about 1919.
+- Infrastructure: dwellings with electricity, 1907 and approximately 1912.
+
+A line only connects benchmarks; it is not evidence for intervening years or
+blank portions of the axis. Every panel includes a source and interpretation limit.
+
+Three original well-being illustrations are embedded inline. Each evidence card
+has its own decorative SVG icon. No separate asset uploads are needed.
 
 ## Validation completed
 
